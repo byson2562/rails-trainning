@@ -17,6 +17,6 @@ module Taskleaf
 
     # 日本語化設定
     config.i18n.default_locale = :ja
-    config.time_zone = 'Tokyo'
+    config.time_zone = 'Asia/Tokyo'
   end
 end
